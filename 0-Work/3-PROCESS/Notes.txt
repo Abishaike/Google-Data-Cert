@@ -1,0 +1,10 @@
+The entire contents of the data cleaning folder cannot be uploaded on GitHub due to its large size.
+
+Listed below are the missing folders. Each folder depicts the steps taken to clean the data.
+"1-Remove empty stn names"
+"2-Remove identical start and end times"
+"3-Remove multiple stn ids based upon stn names"
+"4-Finding STN IDS with multiple STN NAMES"
+"5-Remove STN IDS and STN NAMES discrepancies"
+"6-Cleaned Data-Clean Records"
+"7-Cleaned Data"

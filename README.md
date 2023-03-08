@@ -1,4 +1,4 @@
-# Google-Data-Certificate - Capstone Project - Case Study: How Does a Bike-Share Navigate Speedy Success?
+# Google Data Analytics Certificate - Capstone Project - Case Study: How Does a Bike-Share Navigate Speedy Success?
 
 <p>
   Cyclistic, a bike sharing company based in Chicago wants to maximize its number of annual memberships. The data analysis process, primarily "ask", "prepare", "process", "analyze", "share", and "act" has been implemented using 12 months Cyclistic trip data for 2022 

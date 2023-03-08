@@ -2,7 +2,7 @@
 
 <p>
   Cyclistic, a bike sharing company based in Chicago wants to maximize its number of annual memberships. The data analysis process, primarily "ask", "prepare", "process", "analyze", "share", and "act" has been implemented using 12 months Cyclistic trip data for 2022 
-  to propose a solution to convert casual members into annual members. 
+  to propose a solution to convert casual members into annual members. Listed below are details concerning the project files for this project.
 </p>
 <ul>
   <li>Folder Name: "0-Work"
